@@ -1,5 +1,6 @@
 # Practice Exam 1 
-# FIRST TRY: 66%
+# Attempts: 
+ - 1: 66% - 14 de fevereiro de 2024
 
 Click on the **Answer** button for the correct answer and its explanation.
 
