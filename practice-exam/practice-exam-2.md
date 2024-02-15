@@ -1,4 +1,6 @@
 # Practice Exam 2
+# Attempts
+- 14 de fevereiro de 2024: 82%
 
 Click on the **Answer** button for the correct answer and its explanation.
 
