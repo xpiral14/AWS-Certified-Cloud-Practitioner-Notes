@@ -1,4 +1,7 @@
 # Practice Exam 3
+# Attempts
+- 16 de fevereiro de 2024: 68%
+---
 
 Click on the **Answer** button for the correct answer and its explanation.
 
